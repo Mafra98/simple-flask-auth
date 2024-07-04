@@ -1,4 +1,4 @@
-# simple-flask-auth
+# Simple-Flask-Auth
 
 
-Repositorio criado para armazenar o codigo da API de autenticação com banco de dados
+Repository created to store the database authentication API code
